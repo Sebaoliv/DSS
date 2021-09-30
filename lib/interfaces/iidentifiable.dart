@@ -1,0 +1,3 @@
+class IIdentifiable {
+  int id;
+}
